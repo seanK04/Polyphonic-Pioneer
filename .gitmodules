@@ -1,0 +1,3 @@
+[submodule "polyphonic-pioneer-backend"]
+	path = polyphonic-pioneer-backend
+	url = https://github.com/seanK04/polyphonic-pioneer-backend.git
